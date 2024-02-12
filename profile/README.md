@@ -17,7 +17,16 @@
 <summary> 📚스터디 방식 </summary>
 <div markdown="1">
 
-작성중
+### 사전 준비
+1. 스터디 Repository를 생성하고, 참여 인원 폴더를 만든다
+
+<img width="1884" alt="image" src="https://github.com/growth-avengers/.github/assets/64643665/7217d177-446e-491d-b5db-3fa0acdee4c9">
+
+2. [roadmap-for-groth-avengers](https://github.com/orgs/growth-avengers/projects/2) Project에서 Issue를 생성한다.
+
+### 스터디
+
+
 
 </div>
 </details>
@@ -32,10 +41,55 @@
 [name]/[공부한 챕터]
 ```
 
-### Merge / Pull Request
+예시
+```
+dayoung/ch01
+```
+
+### Issue
+#### Issue 타이틀
+```
+<책 내용> 챕터
+```
+
+예시
+```
+<Java의 정석> 1장, 2장, 3장
+```
+
+#### Issue 내용
+```
+## [기간] 까지
+- 책 제목
+  - 분량
+- 해당 주차의 챕터 부분을 읽고 리뷰 내용을 자유 서식으로 pull request 생성
+- 중복없이 질문 1개 이상(Required)+ 책 내용 정리, 추가 논의, 추가로 알게된 관련 정보 작성(Optional)
+```
+
+예시
+```
+## 2024.02.11(일) 23:59:59까지
+- Java의 정석
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+- 해당 주차의 챕터 부분을 읽고 리뷰 내용을 자유 서식으로 pull request 생성
+- 중복없이 질문 1개 이상(Required)+ 책 내용 정리, 추가 논의, 추가로 알게된 관련 정보 작성(Optional)
+```
+
+### Pull Request
+```
+* 질문 1개 이상
+---
+추가 공유할 내용
+
+close #이슈번호
+```
 
 
 ### Commit
+```
+```
 
 </div>
 </details>
