@@ -7,9 +7,9 @@
 ## 🐉2024
 | Title                                          | Duration              | Repository |
 |------------------------------------------------|-----------------------|------------|
-| [ProGit](https://git-scm.com/book/ko/v2) | 2024-01-29 ~  | [Directory link]() |
+| [ProGit](https://git-scm.com/book/ko/v2) | 2024-01-29 ~  | [Directory link](https://github.com/growth-avengers/pro-git) |
 | [객체지향 프로그래밍](https://www.yes24.com/Product/Goods/69723451) | 2024-02-05 ~ | [Directory link](https://github.com/growth-avengers/object-oriented-programming-read-it-once-realize-it-twice) |
-| [Java의 정석](https://www.yes24.com/Product/Goods/24259565) | 2024-02-05 ~ | [Directory link]() |
+| [Java의 정석](https://www.yes24.com/Product/Goods/24259565) | 2024-02-05 ~ | [Directory link](https://github.com/growth-avengers/java-jungsuk) |
 
 ## 📑Convention
 
