@@ -18,7 +18,7 @@
 <div markdown="1">
 
 ### 사전 준비
-1. 스터디 Repository를 생성하고, 참여 인원 폴더를 만든다
+1. 스터디 Repository를 생성하고, 참여 인원 폴더를 만충돌ㅋㅋ든다
 
 <img width="1884" alt="image" src="https://github.com/growth-avengers/.github/assets/64643665/7217d177-446e-491d-b5db-3fa0acdee4c9">
 
