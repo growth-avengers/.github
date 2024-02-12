@@ -96,13 +96,31 @@ Projects에 start-date end-date 추가
 
 
 ### Pull Request
+#### Pull Request 타이틀
 ```
+[이름] 공부한 챕터
+```
+
+예시
+```
+[이다영] ch01 ~ ch03
+```
+
+#### Pull Request 내용
+```
+## 질문
 * 질문 1개 이상
----
-추가 공유할 내용
 
 close #이슈번호
 ```
+* 하단에 꼭 `close #이슈번호` 를 작성한다
+
+#### 기타
+
+<img width="1904" alt="image" src="https://github.com/growth-avengers/.github/assets/64643665/ac244703-7531-4da7-a31c-e019e890f6ee">
+
+* Assignees에 본인을 태그한다
+* Reviewers에 본인을 제외한 팀원을 태그한다
 
 
 ### Commit
