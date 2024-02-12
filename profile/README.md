@@ -26,10 +26,13 @@
 
 ![image](https://github.com/growth-avengers/.github/assets/64643665/fc330f35-2c89-4ea4-84ea-bec75c07fa43)
 
-3. 
 
 ### 스터디
-
+1. 공부할 챕터의 Branch를 생성한다 **브랜치 규칙은 Git Convention - Branch를 참고하자
+2. 공부한 내용을 자유형식의 `.md` 파일로 작성하여 커밋한다
+3. 완료되면 **정리한 내용의 질문거리 한 가지 이상을 포함한** Pull Request를 올린다 **Pull Request양식은 Git Convention - Pull Request를 참고하자
+4. 스터디 모임 전 까지 각 Pull Request의 질문에 대한 답변을 작성한다
+5. 스터디 당일 알게된 점과 질문에 대한 의견을 공유하고, Merge 한다
 
 
 </div>
