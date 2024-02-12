@@ -27,7 +27,15 @@
 <summary> 😸Git Convention</summary>
 <div markdown="1">
 
-작성중
+### Branch
+```
+[name]/[공부한 챕터]
+```
+
+### Merge / Pull Request
+
+
+### Commit
 
 </div>
 </details>
