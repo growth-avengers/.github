@@ -18,11 +18,15 @@
 <div markdown="1">
 
 ### 사전 준비
-1. 스터디 Repository를 생성하고, 참여 인원 폴더를 만충돌ㅋㅋ든다
+1. 스터디 Repository를 생성하고, 참여 인원 폴더를 만든다
 
 <img width="1884" alt="image" src="https://github.com/growth-avengers/.github/assets/64643665/7217d177-446e-491d-b5db-3fa0acdee4c9">
 
-2. [roadmap-for-groth-avengers](https://github.com/orgs/growth-avengers/projects/2) Project에서 Issue를 생성한다.
+2. [roadmap-for-groth-avengers](https://github.com/orgs/growth-avengers/projects/2) Project에서 Issue를 생성한다. **Issue 생성 방식은 아래의 Git Convention - Issue를 참고하자!
+
+![image](https://github.com/growth-avengers/.github/assets/64643665/fc330f35-2c89-4ea4-84ea-bec75c07fa43)
+
+3. 
 
 ### 스터디
 
@@ -76,6 +80,17 @@ dayoung/ch01
 - 해당 주차의 챕터 부분을 읽고 리뷰 내용을 자유 서식으로 pull request 생성
 - 중복없이 질문 1개 이상(Required)+ 책 내용 정리, 추가 논의, 추가로 알게된 관련 정보 작성(Optional)
 ```
+
+#### 기타
+Assignees에 참여 멤버 추가
+
+![image](https://github.com/growth-avengers/.github/assets/64643665/d08b73ec-d6f6-46d6-81bf-a236a067ff21)
+
+
+Projects에 start-date end-date 추가
+
+<img width="1884" alt="image" src="https://github.com/growth-avengers/.github/assets/64643665/8fa35212-6740-4ac5-af9b-48e029f26021">
+
 
 ### Pull Request
 ```
