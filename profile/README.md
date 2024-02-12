@@ -1,4 +1,4 @@
-# 🔥Groth Avengers
+# 🔥Growth Avengers
 ## 🧑‍💻Member
 | [<img src="https://github.com/wisdom08.png" width="100">](https://github.com/wisdom08) | [<img src="https://github.com/youngDaLee.png" width="100">](https://github.com/youngDaLee) | [<img src="https://github.com/dhlee3994.png" width="100">](https://github.com/dhlee3994) |
 | :--------:| :--------: | :--------: |
