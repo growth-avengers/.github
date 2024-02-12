@@ -12,8 +12,9 @@
 | [Java의 정석](https://www.yes24.com/Product/Goods/24259565) | 2024-02-05 ~ | [Directory link]() |
 
 ## 📑Convention
+
 <details>
-<summary> 📚스터디 방식 </summary>
+<summary> 📚스터디 방식 </summary>
 <div markdown="1">
 
 작성중
