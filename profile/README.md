@@ -33,6 +33,7 @@
 3. 완료되면 **정리한 내용의 질문거리 한 가지 이상을 포함한** Pull Request를 올린다 **Pull Request양식은 Git Convention - Pull Request를 참고하자
 4. 스터디 모임 전 까지 각 Pull Request의 질문에 대한 답변을 작성한다
 5. 스터디 당일 알게된 점과 질문에 대한 의견을 공유하고, Merge 한다
+6. 그 다음 주 까지 Review를 작성한다.
 
 
 </div>
