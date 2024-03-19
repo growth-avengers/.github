@@ -10,9 +10,10 @@
 | [ProGit](https://git-scm.com/book/ko/v2) | 2024-01-29 ~ 2024-03-03 | [Directory link](https://github.com/growth-avengers/pro-git) |
 | [객체지향 프로그래밍](https://www.yes24.com/Product/Goods/69723451) | 2024-02-05 ~ 2024-03-17 | [Directory link](https://github.com/growth-avengers/object-oriented-programming-read-it-once-realize-it-twice) |
 | [Java의 정석](https://www.yes24.com/Product/Goods/24259565) | 2024-02-05 ~ | [Directory link](https://github.com/growth-avengers/java-jungsuk) |
-| [CODE](https://m.yes24.com/Goods/Detail/16667186) | 2024-03-04 ~ | [Directory link](https://github.com/growth-avengers/code) |
-| [HTTP 완벽가이드](https://m.yes24.com/Goods/Detail/15381085) | 2024-03-04 ~ | [Directory link](https://github.com/growth-avengers/http-the-definitive-guide) |
+| [CODE](https://www.yes24.com/Product/Goods/124110681) | 2024-03-04 ~ | [Directory link](https://github.com/growth-avengers/code) |
+| [HTTP 완벽가이드](https://www.yes24.com/Product/Goods/15381085) | 2024-03-04 ~ | [Directory link](https://github.com/growth-avengers/http-the-definitive-guide) |
 | [Real MySQL](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278488709) | 2024-03-18 ~ | [Directory link](https://github.com/growth-avengers/Real-MySQL) |
+| [객체지향의 사실과 오해](https://www.yes24.com/Product/Goods/18249021) | 2024-03-18 ~ | [Directory link](https://github.com/growth-avengers/The-Essence-of-Object-Orientation) |
 
 ## 📑Convention
 
