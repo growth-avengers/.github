@@ -13,7 +13,8 @@
 | [CODE](https://www.yes24.com/Product/Goods/124110681) | 2024-03-04 ~ | [Directory link](https://github.com/growth-avengers/code) |
 | [HTTP 완벽가이드](https://www.yes24.com/Product/Goods/15381085) | 2024-03-04 ~ | [Directory link](https://github.com/growth-avengers/http-the-definitive-guide) |
 | [Real MySQL](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278488709) | 2024-03-18 ~ | [Directory link](https://github.com/growth-avengers/Real-MySQL) |
-| [객체지향의 사실과 오해](https://www.yes24.com/Product/Goods/18249021) | 2024-03-18 ~ | [Directory link](https://github.com/growth-avengers/The-Essence-of-Object-Orientation) |
+| [객체지향의 사실과 오해](https://www.yes24.com/Product/Goods/18249021) | 2024-03-18 ~ 2024-04-07 | [Directory link](https://github.com/growth-avengers/The-Essence-of-Object-Orientation) |
+| [오브젝트](https://www.yes24.com/Product/Goods/74219491) | 2024-04-08 ~ | [Directory link](https://github.com/growth-avengers/objects)
 
 ## 📑Convention
 
